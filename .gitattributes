@@ -1,0 +1,7 @@
+* text=auto
+*.c   text eol=crlf
+*.h   text eol=crlf
+*.cbp text eol=crlf
+*.workspace text eol=crlf
+*.txt text eol=crlf
+*.dat binary

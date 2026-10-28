@@ -1,0 +1,8 @@
+Ana Souza;19
+Bruno Lima;23
+Carla Mendes;31
+Diego Rocha;45
+Elisa Prado;28
+Fabio Nunes;52
+Gabriela Torres;17
+Henrique Alves;38

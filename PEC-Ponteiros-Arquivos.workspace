@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Ponteiros e Arquivos">
+		<Project filename="01-ponteiros/01-ponteiros.cbp" active="1" />
+		<Project filename="02-arquivos/02-arquivos.cbp" />
+		<Project filename="03-cadastro-pessoas/03-cadastro-pessoas.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
